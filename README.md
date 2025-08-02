@@ -1,5 +1,5 @@
-![MasterHead](https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/image1.gif)
-<h1 align="center">Hi 👋, I'm Adarsh Prasad</h1>
+![MasterHead](https://raw.githubusercontent.com/soul-emperor19/niksoriginals/refs/heads/main/image1.gif)
+<h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center">A passionate CS Student from India</h3>
 <img 
   align="right" 
